@@ -1,0 +1,1 @@
+added a checkWall function that allows me to check 1. which side of the wall the molecules are on and also allow molecules through a small hole in the wall.
